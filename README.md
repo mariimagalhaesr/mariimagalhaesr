@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f17ea1&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com//?color=f17ea1&size=35&center=true&vCenter=true&width=1000&lines=+Oiii+Tudo+bem?;Me+chamo+Mariana;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+<br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariimagalhaesr&show_icons=true&count_private=true&hide_border=true&title_color=f17ea1&icon_color=394867&text_color=c9d1d9&bg_color=0d1117" alt="Mariana GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariimagalhaesr&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117" />
