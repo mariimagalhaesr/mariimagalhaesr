@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariigmagalhaesr&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=c9d1d9&bg_color=0d1117" alt="Mariana GitHub stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariimagalhaesr&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=c9d1d9&bg_color=0d1117" alt="Mariana GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepedro10&layout=compact&hide_border=true&title_color=394867&text_color=9BA4B5&bg_color=0d1117" />
 </div>
 
